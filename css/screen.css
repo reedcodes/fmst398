@@ -1,0 +1,19 @@
+body {
+  background-color: #E9ECC1;
+  color: #1C4F54;
+  font-family: "Architects Daughter", Helvetica, Arial, sans-serif;
+  font-size: 32px;
+}
+
+h1 {
+  border-bottom: 5px solid #D5B343;
+  line-height: 0.75;
+}
+
+a {
+  color: #4D96A3;
+}
+
+a:hover, a:focus, a:active {
+  color: #233134;
+}
